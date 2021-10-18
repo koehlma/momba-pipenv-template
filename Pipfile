@@ -2,4 +2,4 @@
 python_version = '3.8'
 
 [packages]
-momba = { version = ">=0.3.3", extras = ['all'] }
+momba = { version = ">=0.4.2", extras = ["all"] }
